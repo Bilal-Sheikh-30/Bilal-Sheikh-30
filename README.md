@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal Ahmed Sheikh</h1>
-<h3 align="center">Undergrad computer engineering student from Pakistan.</h3>
+<h3 align="center">Undergrad computer engineering student.</h3>
 
 - 🔭 I’m currently working on [Online Pharmacy Store - MediCart](https://github.com/Bilal-Sheikh-30/medicart)
 
